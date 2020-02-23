@@ -1,7 +1,204 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2182d314-c6c2-4bc0-a2d5-b3b81b29e774" name="Default Changelist" comment="" />
+    <list default="true" id="2182d314-c6c2-4bc0-a2d5-b3b81b29e774" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/SuanFaDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/Algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/out/production/Algorithm/binarySort/binarySearchNoRecursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/out/production/Algorithm/dijkstra/DijkstraAlgorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/out/production/Algorithm/dijkstra/Graph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/out/production/Algorithm/dijkstra/VisitedVertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/out/production/Algorithm/floyd/FloydAlgorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/out/production/Algorithm/floyd/Graph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/out/production/Algorithm/greedy/Greedy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/out/production/Algorithm/hannoiTower/HanoiTower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/out/production/Algorithm/hourse/Hourse$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/out/production/Algorithm/hourse/Hourse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/out/production/Algorithm/kmp/KmpAlgorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/out/production/Algorithm/kmp/ViolenceMatch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/out/production/Algorithm/knapsackProblem/KnapsackProblem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/out/production/Algorithm/kruskal/EData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/out/production/Algorithm/kruskal/KruskalAlgorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/out/production/Algorithm/prim/MGraph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/out/production/Algorithm/prim/MinTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/out/production/Algorithm/prim/PrimAlgorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/binarySort/binarySearchNoRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/dijkstra/DijkstraAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/dijkstra/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/dijkstra/VisitedVertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/floyd/FloydAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/floyd/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/greedy/Greedy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/hannoiTower/HanoiTower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/hourse/Hourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/kmp/KmpAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/kmp/ViolenceMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/knapsackProblem/KnapsackProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/kruskal/EData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/kruskal/KruskalAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/prim/MGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/prim/MinTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/src/prim/PrimAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayStack/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayStack/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayStack/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayStack/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayStack/ArrayStack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayStack/out/production/ArrayStack/ArrayStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayStack/out/production/ArrayStack/ArrayStackMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayStack/out/production/ArrayStack/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayStack/out/production/ArrayStack/PolanNotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayStack/src/ArrayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayStack/src/ArrayStackMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayStack/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayStack/src/PolanNotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hash/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hash/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hash/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hash/Hash.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hash/out/production/Hash/Emp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hash/out/production/Hash/EmpHashTab.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hash/out/production/Hash/EmpLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hash/out/production/Hash/HashTabDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hash/out/production/Hash/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hash/src/Emp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hash/src/EmpHashTab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hash/src/EmpLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hash/src/HashTabDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hash/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiGong/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiGong/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiGong/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiGong/out/production/recursion/EightQueens.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiGong/out/production/recursion/MiGong.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiGong/recursion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiGong/src/EightQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiGong/src/MiGong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/Queue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/out/production/Queue/ArrayQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/out/production/Queue/CicleMainClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/out/production/Queue/CircleQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/out/production/Queue/MainClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/src/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/src/CicleMainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/src/CircleQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/src/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Search/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Search/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Search/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Search/Search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Search/out/production/Search/BinarySearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Search/out/production/Search/FibonacciSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Search/out/production/Search/InsertValueSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Search/src/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Search/src/FibonacciSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Search/src/InsertValueSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingleLinkedList/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingleLinkedList/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingleLinkedList/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingleLinkedList/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingleLinkedList/SingleLinkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingleLinkedList/out/production/SingleLinkedList/ChildBoy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingleLinkedList/out/production/SingleLinkedList/DoubleHeroNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingleLinkedList/out/production/SingleLinkedList/DoubleMainClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingleLinkedList/out/production/SingleLinkedList/DoubleSingleLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingleLinkedList/out/production/SingleLinkedList/HeroNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingleLinkedList/out/production/SingleLinkedList/JosefuLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingleLinkedList/out/production/SingleLinkedList/JosefuMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingleLinkedList/out/production/SingleLinkedList/MainClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingleLinkedList/out/production/SingleLinkedList/SingleLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingleLinkedList/src/ChildBoy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingleLinkedList/src/DoubleHeroNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingleLinkedList/src/DoubleMainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingleLinkedList/src/DoubleSingleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingleLinkedList/src/HeroNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingleLinkedList/src/JosefuLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingleLinkedList/src/JosefuMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingleLinkedList/src/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SingleLinkedList/src/SingleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/Sort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/out/production/Sort/BaseSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/out/production/Sort/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/out/production/Sort/ChooseSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/out/production/Sort/InsertSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/out/production/Sort/MergeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/out/production/Sort/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/out/production/Sort/ShellSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/src/BaseSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/src/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/src/ChooseSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/src/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/src/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/src/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/src/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/Tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/out/production/Tree/ArrBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/out/production/Tree/ArrayBinaryTreeMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/out/production/Tree/BinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/out/production/Tree/HeroNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/out/production/Tree/TreeMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/out/production/Tree/avl/AVLTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/out/production/Tree/avl/AVLTreeMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/out/production/Tree/avl/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/out/production/Tree/binarySort/BinaryNodeTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/out/production/Tree/binarySort/BinaryNodeTreeDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/out/production/Tree/binarySort/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/out/production/Tree/huffman/HuffManTreeMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/out/production/Tree/huffman/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/out/production/Tree/thread/ThreadBinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/out/production/Tree/thread/ThreadBinaryTreeMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/out/production/Tree/thread/ThreadHeroNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/ArrBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/ArrayBinaryTreeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/HeroNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/TreeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/avl/AVLTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/avl/AVLTreeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/avl/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/binarySort/BinaryNodeTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/binarySort/BinaryNodeTreeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/binarySort/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/huffman/HuffManTreeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/huffman/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/thread/ThreadBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/thread/ThreadBinaryTreeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/src/thread/ThreadHeroNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/线索化二叉树图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tu/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tu/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tu/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tu/Tu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tu/out/production/Tu/basic/Graph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tu/out/production/Tu/basic/GraphMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tu/src/basic/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tu/src/basic/GraphMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/五子棋(数组转稀疏)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/五子棋(数组转稀疏)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/五子棋(数组转稀疏)/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/五子棋(数组转稀疏)/out/production/五子棋(数组转稀疏)/com/wd/suanfa/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/五子棋(数组转稀疏)/src/com/wd/suanfa/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/五子棋(数组转稀疏)/五子棋(数组转稀疏).iml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,11 +213,49 @@
           <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gitignore" value="2" />
+          <entry key="java" value="1" />
+          <entry key="md" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="md" value="61" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="61" />
         </counts>
       </usages-collector>
     </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -33,21 +268,34 @@
     <option name="width" value="979" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SuanFaDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SuanFaDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580698692690" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582472412665" />
+    <property name="last_opened_file_path" value="G:/mt-blog/.gitignore" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -77,16 +325,17 @@
       <workItem from="1582073707424" duration="621000" />
       <workItem from="1582259827470" duration="98000" />
       <workItem from="1582471432526" duration="8000" />
+      <workItem from="1582472048558" duration="272000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1069000" />
+    <option name="totallyTimeSpent" value="1341000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2600536" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26340482" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -103,7 +352,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -121,5 +370,34 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="19">
+            <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tu/src/basic/Graph.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://G:/mt-blog/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="30" column="8" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
